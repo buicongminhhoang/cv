@@ -35,6 +35,9 @@
                 </li>
               </li>
             </ul>
+          </div>
+          <a href="https://github.com/buicongminhhoang/cv/raw/master/CV_BuiCongMinhHoang.pdf" class="btn btn-danger download-template" role="button" aria-disabled="true">Download CV</a>
+      </div>
     </nav>
     <main class="page cv-page">
       <section class="cv-block block-intro border-bottom">
@@ -42,7 +45,7 @@
           <div class="avatar">
             <img class="img-fluid rounded-circle" src="assets/img/avatar.png">
           </div>
-          <p>Xin chào, tôi là <b>Bùi Công Minh Hoàng </b>- một thanh niên 24 tuổi đầy nhiệt huyết. Thiết kế chính là hơi thở, sản phẩm là món ăn tinh thần và nơi tôi làm việc là gia đình thứ hai của tôi. Tôi luôn muốn sử dụng kỹ năng, kinh nghiệm và kiến thức của tôi để trở thành một nhà thiết kế chuyên nghiệp.</p>
+          <p>Xin chào, tôi là <b>Bùi Công Minh Hoàng </b>- một thanh niên 24 tuổi đầy nhiệt huyết và ham mê tìm tòi những công nghệ mới nhất. Tôi luôn muốn sử dụng kỹ năng, kinh nghiệm và kiến thức của tôi để trở thành một chuyên gia bảo mật.</p>
           <a href="https://m.me/BuiCongMinhHoang" class="btn btn-outline-primary">Nhắn tin Facebook cho tôi</a>
         </div>
       </section>
@@ -53,14 +56,38 @@
             <div class="item">
               <div class="row">
                 <div class="col-md-6">
-                  <h3>Thực tập sinh</h3>
+                  <h3>Thực tập tốt nghiệp</h3>
                   <h4 class="organization">Viện Công nghệ Thông tin Quốc gia</h4>
                 </div>
                 <div class="col-md-6">
                   <time class="period">11/2018 - 01/2019</time>
                 </div>
               </div>
-              <p class="text-muted">Tham gia vào dự án xây dựng hệ thống bảo mật cho dự án thành phố thông minh phục vụ cho cuộc cách mạng công nghiệp 4.0</p>
+              <p class="text-muted">Nghiên cứu Dataset KDD Cup 1999 phục vụ học máy và xây dựng công cụ bắt gói tin</p>
+            </div>
+			<div class="item">
+              <div class="row">
+                <div class="col-md-6">
+                  <h3>Thực tập chuyên ngành</h3>
+                  <h4 class="organization">ICTU</h4>
+                </div>
+                <div class="col-md-6">
+                  <time class="period">05/2017 - 07/2017</time>
+                </div>
+              </div>
+              <p class="text-muted">Xây dựng hệ thống bảo mật với Security Onion - một giải pháp tổng hợp để bắt và phân tích luồng dữ liệu</p>
+            </div>
+			<div class="item">
+              <div class="row">
+                <div class="col-md-6">
+                  <h3>Thực tập cơ sở</h3>
+                  <h4 class="organization">ICTU</h4>
+                </div>
+                <div class="col-md-6">
+                  <time class="period">02/2017 - 04/2017</time>
+                </div>
+              </div>
+              <p class="text-muted">Triển khai phần mềm IDS Snort trên Linux để phát hiện xâm nhập</p>
             </div>
             <div class="item">
               <div class="row">
@@ -101,6 +128,18 @@
               </div>
               <p class="text-muted">Học chuyên ngành Anh toàn thông tin, sau 5 năm học thành tốt nghiệp với điểm số 2.7/4.0. Xếp loại bằng Khá</p>
             </div>
+			<div class="item">
+              <div class="row">
+                <div class="col-md-6">
+                  <h3>Bảo mật</h3>
+                  <h4 class="organization">CLB An toàn Thông tin</h4>
+                </div>
+                <div class="col-md-6">
+                  <time class="period">09/2014 - 06/2017</time>
+                </div>
+              </div>
+              <p class="text-muted">Tham gia vào CLB An toàn thông tin, trao đổi và chia sẻ kỹ năng bảo mật với các anh chị và bạn bè khác khóa</p>
+            </div>
             <div class="item">
               <div class="row">
                 <div class="col-md-6">
@@ -119,22 +158,34 @@
               <div class="col-md-6">
                 <div class="skills info-card">
                   <h2>Kỹ năng</h2>
-                  <h3>Adobe Photoshop</h3>
+                  <h3>Linux</h3>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                    aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                    </div>
+                  </div>
+                  <h3>Window</h3>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="70"
                     aria-valuemin="0" aria-valuemax="100" style="width:100%">
                     </div>
                   </div>
-                  <h3>Adobe Illustrator</h3>
+                  <h3>Network</h3>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="70"
-                    aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                    aria-valuemin="0" aria-valuemax="100" style="width:80%">
                     </div>
                   </div>
-                  <h3>Tin học</h3>
+				  <h3>Lập trình C/C++/Python/Java</h3>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="70"
-                    aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                    aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                    </div>
+                  </div>
+				  <h3>Đồ họa (Photoshop/Illustrator/Indesign)</h3>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                    aria-valuemin="0" aria-valuemax="100" style="width:95%">
                     </div>
                   </div>
                 </div>
@@ -171,7 +222,7 @@
                       <i class="ion-at icon"></i>
                     </div>
                     <div class="col-9">
-                      <span>buicongminhhoang@email.com</span>
+                      <span>buicongminhhoang@gmail.com</span>
                     </div>
                   </div>
                 </div>
@@ -180,7 +231,7 @@
           </div>
           <div class="hobbies group" id="hobbies">
             <h2 class="text-center">Sở thích</h2>
-            <p class="text-center text-muted">Tôi thích sự đơn giản, gọn gàng. Ngoài lĩnh vực thiết kế, tôi thích tập GYM và các hoạt động thể thao.</p>
+            <p class="text-center text-muted">Tôi thích sự đơn giản, gọn gàng. Ngoài lĩnh vực công nghệ, tôi thích tập GYM và các hoạt động thể thao.</p>
           </div>
         </div>
       </section>
